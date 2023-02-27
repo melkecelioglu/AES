@@ -7,7 +7,7 @@ AES stands for Advanced Encryption Standard, also known by its original name Rij
 
 
 
-cyptographic Hash \
+# cyptographic Hash \
 Simple Example of Cryptographic Hash Functions used in Golang.
 Using Secure Hash Algorithm and Message Digest Algorithm
 SHA256,512 and MD5 Packages used.
